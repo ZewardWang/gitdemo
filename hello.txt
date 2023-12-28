@@ -1,4 +1,7 @@
 hello git
 hello at guigu
+<<<<<<< HEAD
 
 hello hotfix master test
+hot fix test
+hello hotfix
